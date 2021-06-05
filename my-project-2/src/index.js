@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 //import Robots from'./Robots';
 //import CardList from './CardList';
-import App from './App';
+import App from './containers/App';
 
 ReactDOM.render(  
   <App />,document.getElementById('root')
