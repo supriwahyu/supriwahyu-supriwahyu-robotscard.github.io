@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 //import Robots from'./Robots';
 //import CardList from './CardList';
-import App from './App';
+import App from './containers/App';
 
 ReactDOM.render(  
   <App />,document.getElementById('root')
@@ -16,5 +16,3 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
-
-//this is a comment
